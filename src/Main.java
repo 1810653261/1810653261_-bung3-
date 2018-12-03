@@ -4,8 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
         partialString(JOptionPane.showInputDialog("Geben sie einen Text ein!!"));
-    }
 
+        Taschenrechner.Addition();
+        Taschenrechner.Subtraktion();
+        Taschenrechner.Multiplikation();
+        Taschenrechner.Division();
+    }
 
     public static void partialString(String a)
     {

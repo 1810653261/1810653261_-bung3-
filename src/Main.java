@@ -9,6 +9,7 @@ public class Main {
         Taschenrechner.Subtraktion();
         Taschenrechner.Multiplikation();
         Taschenrechner.Division();
+
     }
 
     public static void partialString(String a)
